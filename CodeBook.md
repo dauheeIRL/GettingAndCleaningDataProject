@@ -22,7 +22,7 @@
 * LAYING
 
 
-###All of the following fields are numeric withing the value range of -1 to 1 with a decimal precision of up to 5 places the represent std and mean values from the data provided for this project:
+###All of the following fields are numeric withing the value range of -1 to 1 with a decimal precision of up to 10 places the represent std and mean values from the data provided for this project:
 ####tBodyAcc-mean()-X
 ####tBodyAcc-mean()-Y
 ####tBodyAcc-mean()-Z
