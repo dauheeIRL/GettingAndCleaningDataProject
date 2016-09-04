@@ -1,14 +1,18 @@
 #Codebook explaining output file that is created by run_analysis.R
 
+
 ####subject: number value ranging from 1 to 30, indicating the individual test subject the data relates to
 
+
 ####activity: consisting of one of the following 6 character values:
-#####WALKING
-#####WALKING_UPSTAIRS
-#####WALKING_DOWNSTAIRS
-#####SITTING
-#####STANDING
-#####LAYING
+
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
+
 
 ###All of the following fields are numeric withing the value range of -1 to 1 with a decimal precision of up to 5 places the represent std and mean values from the data provided for this project:
 ####tBodyAcc-mean()-X
